@@ -6,7 +6,7 @@ An industrial monitoring system that collects and analyzes machine data to evalu
 ## :hammer: Current Features
 - `Database structure`: Stores machine metrics such as performance, usage, and operational data
 - `Data generation system`: Generates simulated industrial machine data for testing and analysis
+- `KPI calculation system`: To measure machine performance and efficiency
 
 ## :construction: Planned Features
-- `KPI calculation system`: To measure machine performance and efficiency
 - `Interactive dashboard`: For real-time data visualization
